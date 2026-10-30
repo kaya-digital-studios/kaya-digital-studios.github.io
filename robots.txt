@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://kaya-digital-studios.github.io/sitemap.xml
